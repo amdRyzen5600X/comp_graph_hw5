@@ -1,0 +1,10 @@
+[package]
+name = "hw5"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+glium = "0.35.0"
+glutin-winit = "0.5.0"
+image = "0.25.4"
+obj = "0.10.2"
